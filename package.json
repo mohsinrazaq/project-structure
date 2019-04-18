@@ -1,11 +1,11 @@
 {
     "title": "Project-structure",
-    "name": "startbootstrap-creative",
+    "name": "project-structure",
     "version": "5.1.4",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Project structure with bootstrap4.",
     "keywords": [
         "css",
         "sass",
@@ -20,9 +20,9 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Mohsin Razzaq",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Mohsin Razzaq (http://mohsinrazzaq.cf/)"
     ],
     "repository": {
         "type": "git",
